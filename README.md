@@ -6,6 +6,8 @@ I'm adding another change from github
 
 Changes from a new branch
 
+Some more changes
+
 ## git
 
 git is a version control software.
